@@ -10,6 +10,7 @@
   "author": "Kent Lee",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.11.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
     "react-router": "^2.0.0-rc5"
